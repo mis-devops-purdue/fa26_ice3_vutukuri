@@ -4,8 +4,11 @@ ICE 3 Pair Programming Exercise for MIS 58710.
 
 ## Team Members
 
+- **Hithesh Perugu**: Favorite movie: Hi nana
+
 
 - **Jongmin Lee**: Favorite movie: The Matrix
 
 - - **Priya Vutukuri**: Favorite series: Stranger Things
+
 
